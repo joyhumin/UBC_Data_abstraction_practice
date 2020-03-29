@@ -1,6 +1,6 @@
 package model;
 
-public class IntergerSet {
+public class IntegerSet {
 
     //MODIFIES: this
     //EFFECTS: insert the integer into the set unless it's already there, in which case do nothing
